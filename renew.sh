@@ -1,4 +1,4 @@
-# confing
+# config
 certbot_dir=$1
 if [ ! -n "$certbot_dir" ]; then
         certbot_dir='/usr/local/certbot/'
